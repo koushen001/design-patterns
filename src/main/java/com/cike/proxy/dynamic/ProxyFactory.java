@@ -8,8 +8,6 @@ import java.lang.reflect.Proxy;
  * 创建动态代理对象
  * 动态代理不需要实现接口，但要指定接口类型
  *
- * @author kouliang
- * @create 2018-05-24 22:10
  **/
 public class ProxyFactory {
     //目标对象

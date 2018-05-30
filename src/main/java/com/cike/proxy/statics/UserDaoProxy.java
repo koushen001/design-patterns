@@ -3,8 +3,6 @@ package com.cike.proxy.statics;
 /**
  * 代理对象，静态代理
  *
- * @author kouliang
- * @create 2018-05-24 17:32
  **/
 public class UserDaoProxy implements UserDao{
     //接收保存目标对象

@@ -1,10 +1,8 @@
 package com.cike.proxy.statics;
 
 /**
- * 测试类
+ * 测试类，静态代理
  *
- * @author kouliang
- * @create 2018-05-24 17:34
  **/
 public class App {
     public static void main(String[] args) {

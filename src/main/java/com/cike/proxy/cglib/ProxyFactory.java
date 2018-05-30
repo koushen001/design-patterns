@@ -12,8 +12,6 @@ import java.util.Random;
  * Cglib子类代理工厂
  * 对UserDao在内存中动态创建一个子类对象
  *
- * @author kouliang
- * @create 2018-05-24 22:27
  **/
 public class ProxyFactory implements MethodInterceptor{
     //目标对象

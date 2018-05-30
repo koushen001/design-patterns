@@ -1,10 +1,8 @@
 package com.cike.proxy.dynamic;
 
 /**
- * 测试类
+ * 测试类，动态代理
  *
- * @author kouliang
- * @create 2018-05-24 22:15
  **/
 public class App {
     public static void main(String[] args) {

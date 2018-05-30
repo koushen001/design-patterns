@@ -1,12 +1,8 @@
 package com.cike.proxy.cglib;
 
-import java.lang.annotation.Target;
-
 /**
- * 测试类
+ * 测试类，cglib代理
  *
- * @author kouliang
- * @create 2018-05-24 22:33
  **/
 public class App {
     public static void main(String[] args) {
